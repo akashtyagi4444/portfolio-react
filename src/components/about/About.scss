@@ -87,7 +87,7 @@
     }
 }
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 600px){
     .about_me{
         width: 65%;
         margin: 0rem auto 1rem;
@@ -101,5 +101,8 @@
     .about_content p{
         margin: 0;
         font-size: 0.8rem;
+    }
+    .about_cards {
+        grid-template-columns: 1fr;
     }
 }
