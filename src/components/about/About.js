@@ -26,8 +26,10 @@ const About = () => {
             </article>
             <article className='about_card'>
               <GoOrganization className='about_icon'/>
-              <h5>TCS</h5>
-              <small>Senior Engineer</small>
+              <h5>Ernst & Young</h5>
+              <small>Senior Technology Consultant</small>
+              <br />
+              <small>Working with Goldman Sachs - Onsite</small>
             </article>
             <article className='about_card'>
               <FiUsers className='about_icon'/>
@@ -36,9 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>Highly skilled and innovative full stack developer with expertise in front-end and back-end
-             technologies. Proven track record of successful projects, strong problem-solving abilities,
-             and a passion for continuous learning and user-centric design. A collaborative team player 
-             who delivers high-quality results on time.
+             technologies. Proven track record of successful projects, strong problem-solving abilities.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
